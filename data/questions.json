@@ -134,6 +134,29 @@
       ],
       "correctOption": 3,
       "points": 20
+    },
+    {
+      "question": "What does the key prop help React identify?",
+      "options": [
+        "Which elements to update",
+        "Which event to listen to",
+        "Which style to apply",
+        "Which props to re-use"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Which hook is used to persist values between renders without causing a re-render?",
+      "options": ["useEffect", "useRef", "useState", "useMemo"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "Which React hook is best for optimizing expensive calculations?",
+      "options": ["useMemo", "useReducer", "useRef", "useEffect"],
+      "correctOption": 0,
+      "points": 20
     }
   ]
 }
