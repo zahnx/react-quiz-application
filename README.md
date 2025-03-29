@@ -15,4 +15,5 @@
 git clone https://github.com/zahnx/react-quiz-application.git
 cd the-react-quiz
 npm install
+npm server
 npm start
